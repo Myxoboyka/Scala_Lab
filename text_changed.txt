@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main() {
+int	a = 0;
+float	b = 0.0;
+float	c = 123.0;
+bool	d = true;
+bool	f = false;
+char	e = "abc";
+	return 0;
+}
+
+// I love NGTU
